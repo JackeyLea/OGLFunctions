@@ -1,0 +1,9 @@
+---
+title: glActiveTexture
+permalink: /glsc/glActiveTexture
+date: 2022-07-12 11:23:10
+tags: [OpenGL,OpenGL SC,OpenGL SC 1.0]
+keywords: [OpenGL,OpenGL SC,OpenGL SC 1.0]
+categories: OpenGL
+index_img: /img/opengl.jpg
+---
