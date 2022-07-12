@@ -312,26 +312,35 @@ navbar:
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { 
-      key: "开发入门", 
+      key: "OpenGL", 
       icon: "iconfont icon-books",
       submenu: [ 
-        { key: "CUDA入门系列", link: "/cuda/cuda-learning-indexes"},
-        { key: "FFmpeg入门系列", link: "/ffmpeg/ffmpeg-learning-indexes"},
-        { key: "GStreamer入门系列", link: "/gstreamer/gstreamer-learning-indexes"},
-        { key: "OpenCV入门系列", link: "/opencv/opencv-learning-indexes"},
-        { key: "OpenGL入门系列", link: "/opengl/opengl-learning-indexes"},
-        { key: "Qt入门系列", link: "/qt/qt-learning-indexes"},
-        { key: "Wayland入门系列", link: "/wayland/wayland-learning-indexes"}
+        { key: "", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"}
       ]
     }
     - {
-      key: "软件入门", 
+      key: "OpenGL ES", 
       icon: "iconfont icon-books",
       submenu: [
-        { key: "SCADE入门系列", link: "/scade/scade-learning-indexes"},
-        { key: "VAPS XT入门系列", link: "/vapsxt/vapsxt-learning-indexes"},
-        { key: "VxWorks入门系列", link: "/vxworks/vxworks-learning-indexes"},
-        { key: "Zabbix入门系列", link: "/zabbix/zabbix-learning-indexes"}
+        { key: "1.0", link: "/"},
+        { key: "1.1", link: "/"},
+        { key: "", link: "/"},
+        { key: "", link: "/"}
+      ]
+    }
+    - {
+      key: "OpenGL SC"
+      icon: "iconfont icon-books",
+      submenu: [
+        { key: "1.0", link: "/"},
+        { key: "1.0.1", link: "/"},
+        { key: "2.0", link: "/"},
       ]
     }
     - { 
