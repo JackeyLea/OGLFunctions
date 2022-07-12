@@ -1,3 +1,13 @@
+---
+title: 更新日志
+permalink: /log.html
+date: 2022-07-12 22:57:10
+tags: [About]
+keywords: [关于,说明,日志,log]
+categories: About
+index_img: /img/favicon256.png
+---
+
 ## 2022.07.12
 
 添加OpenGL SC2.0函数共
