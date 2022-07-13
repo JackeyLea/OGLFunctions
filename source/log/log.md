@@ -8,9 +8,71 @@ categories: About
 index_img: /img/favicon256.png
 ---
 
+## 2022.07.13
+
+
+添加OpenGL SC2.0函数共111个，相比于OpenGL SC1.0.1删除了61个函数 添加了70个
+
+glActiveTexture.md                        glGetVertexAttribfv.md
+glBindBuffer.md                           glGetVertexAttribiv.md
+glBindFramebuffer.md                      glGetVertexAttribPointerv.md
+glBindRenderbuffer.md                     glHint.md
+glBindTexture.md                          glIsEnabled.md
+glBlendColor.md                           glLineWidth.md
+glBlendEquation.md                        glPixelStorei.md
+glBlendEquationSeparate.md                glPolygonOffset.md
+glBlendFunc.md                            glProgramBinary.md
+glBlendFuncSeparate.md                    glReadnPixels.md
+glBufferData.md                           glRenderbufferStorage.md
+glBufferSubData.md                        glSampleCoverage.md
+glCheckFramebufferStatus.md               glScissor.md
+glClear.md                                glStencilFunc.md
+glClearColor.md                           glStencilFuncSeparate.md
+glClearDepthf.md                          glStencilMask.md
+glClearStencil.md                         glStencilMaskSeparate.md
+glColorMask.md                            glStencilOp.md
+glCompressedTexSubImage2D.md              glStencilOpSeparate.md
+glCreateProgram.md                        glTexParameterf.md
+glCullFace.md                             glTexParameterfv.md
+glDepthFunc.md                            glTexParameteri.md
+glDepthMask.md                            glTexParameteriv.md
+glDepthRangef.md                          glTexStorage2D.md
+glDisable.md                              glTexSubImage2D.md
+glDisableVertexAttribArray.md             glUniform1f.md
+glDrawArrays.md                           glUniform1fv.md
+glDrawRangeElements.md                    glUniform1i.md
+glEnable.md                               glUniform1iv.md
+glEnableVertexAttribArray.md              glUniform2f.md
+glFinish.md                               glUniform2fv.md
+glFlush.md                                glUniform2i.md
+glFramebufferRenderbuffer.md              glUniform2iv.md
+glFramebufferTexture2D.md                 glUniform3f.md
+glFrontFace.md                            glUniform3fv.md
+glGenBuffers.md                           glUniform3i.md
+glGenerateMipmap.md                       glUniform3iv.md
+glGenFramebuffers.md                      glUniform4f.md
+glGenRenderbuffers.md                     glUniform4fv.md
+glGenTextures.md                          glUniform4i.md
+glGetAttribLocation.md                    glUniform4iv.md
+glGetBooleanv.md                          glUniformMatrix2fv.md
+glGetBufferParameteriv.md                 glUniformMatrix3fv.md
+glGetError.md                             glUniformMatrix4fv.md
+glGetFloatv.md                            glUseProgram.md
+glGetFramebufferAttachmentParameteriv.md  glVertexAttrib1f.md
+glGetGraphicsResetStatus.md               glVertexAttrib1fv.md
+glGetIntegerv.md                          glVertexAttrib2f.md
+glGetnUniformfv.md                        glVertexAttrib2fv.md
+glGetnUniformiv.md                        glVertexAttrib3f.md
+glGetProgramiv.md                         glVertexAttrib3fv.md
+glGetRenderbufferParameteriv.md           glVertexAttrib4f.md
+glGetString.md                            glVertexAttrib4fv.md
+glGetTexParameterfv.md                    glVertexAttribPointer.md
+glGetTexParameteriv.md                    glViewport.md
+glGetUniformLocation.md                   tmp/
+
+
 ## 2022.07.12
 
-添加OpenGL SC2.0函数共
 
 
 
